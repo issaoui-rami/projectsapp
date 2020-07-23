@@ -1,0 +1,21 @@
+
+.menuColor, .MuiListItemIcon-root, .MuiListItemText-root span{
+  color : #fff !important;
+}
+.MuiPaper-root {
+  background: #3f51b5 !important;
+}
+.makeStyles-appBarShift-3, .makeStyles-drawerOpen-7 {
+  background: #3f51b5 !important;
+}
+.MuiIconButton-label .MuiSvgIcon-root {
+    color: #fff;
+    background-color: #3f51b5 !important;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.MuiDrawer-paperAnchorLeft {
+    display: flex;
+    justify-content: center;
+  }
